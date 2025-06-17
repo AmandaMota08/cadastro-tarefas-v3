@@ -9,10 +9,10 @@
 
 const {Sequelize} = require("sequelize");
 
-const  sequelize = new Sequelize("cadastro_tarefas", "tarefas_user", "123456",{
+const sequelize = new Sequelize("cadastro_tarefas", "tarefas_user", "123456",{
   host: "localhost", 
   dialect: "mysql",
-  timestamp: false,
+  timestamp: false
 });
 
 module.exports = sequelize;
