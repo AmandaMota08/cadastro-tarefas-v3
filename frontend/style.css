@@ -1,18 +1,18 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #eef2f7;
+    background-color: #749fd4;
   }
   
   .container {
     max-width: 600px;
     margin: 40px auto;
-    background: white;
+    background: rgb(150, 188, 224);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
   }
   
   h1, h3 {
+    color: black;
     text-align: center;
   }
   
@@ -26,14 +26,16 @@ body {
   input, button {
     padding: 10px;
     font-size: 16px;
+    background-color: #d4d9e0;
   }
   
   button {
-    background-color: #2563eb;
+    background-color: #659cee;
     color: white;
     border: none;
     cursor: pointer;
     border-radius: 4px;
+    border-radius: 10px;
   }
   
   table {
@@ -48,7 +50,7 @@ body {
   }
   
   th {
-    background-color: #2563eb;
+    background-color: #5886e9;
     color: white;
   }
   
