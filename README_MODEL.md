@@ -29,7 +29,8 @@ Colocar em prática a migração de banco de dados através da adaptação de um
 
 ## 📸 Captura de tela
 
-![tela](gerenciador%20de%20tarefas.png)
+![image](https://github.com/user-attachments/assets/f36b2811-e9e0-4e32-944f-86a67788dbb6)
+
 
 ## 🧑‍💻 Como usar
 
